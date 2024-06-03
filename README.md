@@ -1,4 +1,5 @@
-#  Analyse des données des systèmes éducatifs -- Banque Mondiale -- ##### Mon tout premier projet
+#  Analyse des données des systèmes éducatifs -- Banque Mondiale
+##### Mon tout premier projet
 
 #### OpenClassrooms – parcours Data Scientist 
 -----
